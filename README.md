@@ -21,8 +21,8 @@ I am a skilled front-end developer with five years of experience, specialized in
 
 ### 🚀 Professional Highlights
 
-* **Sr. Software Developer at Digital Logic**: Developing large-scale projects for the government sector and mentoring interns (February 2025 – Present)
-* **Frontend Team Lead at Ta3leem**: Leading frontend teams to build scalable applications and overseeing project architecture and UI/UX best practices.
+* **Frontend Team Lead at Ta3leem**: Leading frontend teams to build scalable applications and overseeing project architecture and UI/UX best practices (February 2025 – Present)
+* **Sr. Software Developer at Digital Logic**: Developing large-scale projects for the government sector and mentoring interns.
 * **Full-Stack Developer at Future of Technology**: Developed accounting systems and performed maintenance to ensure project longevity.
 * **Front-end Developer at AlMuraba Co.**: Built medical web applications for hospitals and clinics.
 
